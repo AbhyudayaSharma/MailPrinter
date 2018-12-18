@@ -10,7 +10,7 @@ It is recommended to use an account separate from your own email account.
 - Configure your printer using your operating system settings.
 - Clone the repository and `cd` to the cloned folder.
 - Run `[sudo] ./setup.py install`.
-- Make the configurations for your email and printer config.json.
+- Make the configurations for your email and printer in config.json.
 - Set the email and password for the account to be used:
 
 ```bash
