@@ -1,0 +1,7 @@
+# installed files 
+*egg* 
+build
+dist
+
+__pycache__
+*temp*
