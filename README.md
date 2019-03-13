@@ -40,6 +40,6 @@ All configurations are made in config.json:
 - `printer_name`: The name of the printer as used by CUPS. Run the program to see the list
     of all configured printers visible to the program. Copy the name of the printer to use
     and paste it in this field.
-- `send_recieve_interval`: The interval after which emails are checked repeatedly.
+- `send_recieve_interval`: The time interval (in seconds) between re-checking emails.
 
 NOTE: Only PDF attachments are printed right now.
